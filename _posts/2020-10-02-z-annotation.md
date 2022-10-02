@@ -4,9 +4,9 @@ subtitle: Panoptic Segmentation
 layout: default
 modal-id: 1
 date: 2022-10-02
-img: kitti_left.png
-thumbnail: kitti_left.png
-alt: Annotated Left Camera View from KITTI dataset
+img: kitti.png
+thumbnail: kitti.png
+alt: Annotated Camera Views from KITTI dataset
 project-date: June 2019
 client: Redacted
 category: Data Annotation
