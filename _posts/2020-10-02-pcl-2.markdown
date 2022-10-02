@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 2022-10-02
 img: pointcloud.png
-thumbnail: pointcloud_thumbnail.png
+thumbnail: pointcloud-thumbnail.png
 alt: LiDAR Point Cloud
 project-date: October 2020
 client: Redacted
