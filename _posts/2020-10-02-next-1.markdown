@@ -1,0 +1,15 @@
+---
+title: The Next Frontier
+subtitle: Upcoming
+layout: default
+modal-id: 1
+date: 2022-10-02
+img: turangi.png
+thumbnail: turangi.png
+alt: Turangi
+project-date: October 2020
+client: You
+category: Future Vision
+description: Let's work together to realize your vision of the future and make your clients happy
+
+---
